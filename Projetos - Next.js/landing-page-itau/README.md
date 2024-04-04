@@ -5,7 +5,7 @@
 ##
 🔗 Projeto:
 
-Lanfing page do site Itaú para treinar a utilizaçao do framework Next.Js 14 e TailwindCSS.
+Landing page do site Itaú para treinar a utilizaçao do framework Next.Js 14 e TailwindCSS.
 
 Deploy: [Click here to acess](https://landing-page-itau-drmgy9gtn-wictorlucianos-projects.vercel.app/)
 
