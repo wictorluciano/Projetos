@@ -1,13 +1,13 @@
 <h1 align="center">Landing Page - Itaú</h1>
 
-<a href="https://landing-page-itau-drmgy9gtn-wictorlucianos-projects.vercel.app/"> <img src="./src/assets/readme.png"></a>
+<a href="https://landing-page-itau-two.vercel.app/"> <img src="./src/assets/readme.png"></a>
 
 ##
 🔗 Projeto:
 
 Landing page do site Itaú para treinar a utilizaçao do framework Next.Js 14 e TailwindCSS.
 
-Deploy: [Click here to acess](https://landing-page-itau-drmgy9gtn-wictorlucianos-projects.vercel.app/)
+Deploy: [Click here to acess](https://landing-page-itau-two.vercel.app/)
 
 ##
 💻 Technologies
