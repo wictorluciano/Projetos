@@ -1,7 +1,7 @@
 <h1>Projetos</h1>  
 
 ***Seja bem vindo, ao meu repositório***
-<p>Contém os projetos pessoais que desenvolvi, dividos por stacks. </p>
+<p>Contém os projetos pessoais que desenvolvi, para fins didáticos, dividos por stacks. </p>
 
 
 ##
