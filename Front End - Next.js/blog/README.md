@@ -1,6 +1,6 @@
 <h1 align="center">Blog - Codelândia</h1>
 
-<img src="/readme.png">
+<img src="../public//readme.png">
 
 ## 🔗 Projeto:
 
