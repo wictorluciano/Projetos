@@ -1,18 +1,14 @@
 <h1>Projetos</h1>  
 
-***Seja bem vindo, ao meu repositório***
+**Seja bem vindo, ao meu repositório 😁**
 <p>Contém os projetos pessoais desenvolvidos para fins didáticos, dividos por stacks. </p>
 
 
 ##
 💻 Tech Stacks
- 
-- CSS
-- HTML
-- Javascript  
-- Typescript
-- React
-- Next.js
+
+- Front end
+- Back end
 - GIT & Github
 
 ##
