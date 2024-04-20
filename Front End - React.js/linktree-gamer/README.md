@@ -1,4 +1,4 @@
-<h1 align="center">LinkTree Gamer 🎮</h1>
+<h1>LinkTree Gamer 🎮</h1>
 
 <a href="***LINK DO PROJETO***"> <img src="./public/assets/readme.png"></a>
 
