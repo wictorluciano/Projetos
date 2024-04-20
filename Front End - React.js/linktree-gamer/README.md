@@ -1,12 +1,12 @@
 <h1>🎮 LinkTree Gamer</h1>
 
-<a href="https://projetos-4uclucmby-wictorlucianos-projects.vercel.app/"> <img src="./public/assets/readme.png"></a>
+<a href="https://projetos-wine.vercel.app/"> <img src="./public/assets/readme.png"></a>
 
 ## 🔗 Project:
 
 Projeto similar ao o LinkTree, criado com React.js + Vite, para centralizando links úteis, como Gamers favoritos, Canais e redes sociais.
 
-Link do Projeto: [Click here to acess](https://projetos-4uclucmby-wictorlucianos-projects.vercel.app/)
+Link do Projeto: [Click here to acess](https://projetos-wine.vercel.app/)
 
 ## 💻 Tech Stack
  
