@@ -1,11 +1,8 @@
 <h1 align="center">Blog - Codelândia</h1>
 
-<img src="./public/readme.png">
-
-## 🔗 Projeto:
-
 Blog criado com base no projeto do figma Codelandia, para treinar a utilizaçao do framework Next.Js 14 e TailwindCSS (responsividade no mobile, tablet e deskop).
 
+<img src="./public/readme.png">
 
 ## 💻 Technologies
  
