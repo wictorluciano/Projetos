@@ -1,4 +1,4 @@
-<h1 align="center">Landing Page - Itaú</h1>
+<h1>🏧 Landing Page - Itaú</h1>
 
 Landing page do site Itaú para treinar a utilizaçao do framework Next.Js 14 e TailwindCSS.
 
