@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: theme('fontFamily.dmSans');
+    background-color: #171717;
+    color: #F9F9F9;
+}
