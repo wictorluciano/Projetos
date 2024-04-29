@@ -36,7 +36,7 @@ export default function About(props) {
         <section id="about" className="flex flex-col items-center gap-14 xl:gap-20">
             <div className="flex flex-col items-center gap-4">
                 <p className="font-bold text-2xl xl:text-4xl">Sobre mim</p>
-                <span className="flex items-center text-dark-scale-400 xl:text-lg text-sm w-[312px] xl:w-[745px] text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span>
+                <span className="flex items-center text-dark-scale-400 xl:text-lg text-sm w-[312px] xl:w-[745px] text-center">Desenvolvedor de software apaixonado por resolver problemas e em constante busca pelo próximo desafio tecnológico.</span>
             </div>
 
             <div className="xl:flex grid grid-cols-2 gap-16 xl:gap-48">

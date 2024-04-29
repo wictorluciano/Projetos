@@ -11,8 +11,7 @@ export default function SectionHero() {
                 </a>
             </div>
             <div className="flex items-center w-[200px] h-[200px] xl:w-[300px] xl:h-[300px] 
-            bg-hero-pattern bg-center bg-no-repeat bg-contain rounded-full
-            animate-pulse">
+            bg-hero-pattern bg-center bg-no-repeat bg-contain rounded-full">
             </div>
         </section>
     )
