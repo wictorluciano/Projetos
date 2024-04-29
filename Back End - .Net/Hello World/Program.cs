@@ -1,7 +1,13 @@
 ﻿using Hello_World.Models;
 
-Pessoa pessoa1 = new Pessoa();
+Pessoa p1 = new Pessoa(nome: "Wictor", sobrenome: "Luciano");
 
-pessoa1.Nome = "Wictor";
-pessoa1.Idade = 23;
-pessoa1.Apresentar();
+Pessoa p2 = new Pessoa(nome: "Andreia", sobrenome: "Brocas");
+
+Curso ingles = new Curso();
+ingles.Nome = "Inglês";
+ingles.Alunos = new List<Pessoa>();
+
+ingles.AdicionarAluno(p1);
+ingles.AdicionarAluno(p2);
+ingles.ListarAlunos();
