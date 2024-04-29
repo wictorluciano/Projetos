@@ -11,7 +11,8 @@ export default function SectionHero() {
                 </a>
             </div>
             <div className="flex items-center w-[200px] h-[200px] xl:w-[300px] xl:h-[300px] 
-            bg-hero-pattern bg-center bg-no-repeat bg-contain rounded-full">
+            bg-center bg-no-repeat bg-contain rounded-full">
+                <img src="./ilustration.svg" alt="" />
             </div>
         </section>
     )
