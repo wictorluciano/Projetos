@@ -10,8 +10,7 @@ export default function SectionHero() {
                     transition ease-in-out delay-150 duration-150 hover:scale-110">Entrar em contato</button>
                 </a>
             </div>
-            <div className="flex items-center w-[200px] h-[200px] xl:w-[300px] xl:h-[300px] 
-            bg-center bg-no-repeat bg-contain rounded-full">
+            <div className="flex justify-center w-[300px] h-[300px] xl:w-[400px] xl:h-[400px]">
                 <img src="./ilustration.svg" alt="" />
             </div>
         </section>
