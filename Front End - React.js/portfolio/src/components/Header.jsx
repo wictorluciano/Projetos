@@ -12,10 +12,10 @@ export default function Header() {
                 <div className="absolute xl:hidden right-0 mt-6 mr-[20px]">
                     <ul className="flex flex-col items-center
                     bg-dark-scale-300 p-2 rounded-lg gap-1">
-                        <li className="w-full p-2 m-1 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100"><a href="#about">Sobre mim</a></li>
-                        <li className="w-full p-2 m-1 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100"><a href="#projects">Projetos</a></li>
-                        <li className="w-full p-2 m-1 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100"><a href="#services">Serviços</a></li>
-                        <li className="w-full p-2 m-1 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100"><a href="#skills">Skills</a></li>
+                        <a href="#about" className="w-full"><li className="w-full p-2 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100">Sobre mim</li></a>
+                        <a href="#projects" className="w-full"><li className="w-full p-2 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100">Projetos</li></a>
+                        <a href="#services" className="w-full"><li className="w-full p-2 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100">Serviços</li></a>
+                        <a href="#skills" className="w-full"><li className="w-full p-2 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100">Skills</li></a>
                     </ul>
                 </div>
 </>
@@ -34,14 +34,14 @@ export default function Header() {
 
                     <div className="hidden xl:flex h-full">
                         <ul className="flex items-center justify-between w-[469px]">
-                            <li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
-                            transition"><a href="#about">Sobre mim</a></li>
-                            <li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
-                            transition"><a href="#projects">Projetos</a></li>
-                            <li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
-                            transition"><a href="#services">Serviços</a></li>
-                            <li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
-                            transition"><a href="#skills">Skills</a></li>
+                            <a href="#about"> <li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
+                            transition"><a href="#about">Sobre mim</a></li></a>
+                            <a href="#projects"><li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
+                            transition">Projetos</li></a>
+                            <a href="#services"><li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
+                            transition">Serviços</li></a>
+                            <a href="#skills"><li className="hover:border-b-2 hover:rounded hover:text-brand-color hover:border-brand-color hover:pb-[0.5px]
+                            transition">Skills</li></a>
                         </ul>
                     </div>
 
