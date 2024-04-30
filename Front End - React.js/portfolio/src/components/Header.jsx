@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaTimes } from "react-icons/fa";
+import { TfiClose } from "react-icons/tfi";
 import { CiMenuFries } from "react-icons/ci";
 
 
@@ -9,7 +9,7 @@ export default function Header() {
     const handleClick = () => setClick(!click);
 
     const content = <>
-                <div className="absolute xl:hidden right-0 mt-2 mr-[20px]">
+                <div className="absolute xl:hidden right-0 mt-6 mr-[20px]">
                     <ul className="flex flex-col items-center
                     bg-dark-scale-300 p-2 rounded-lg gap-1">
                         <li className="w-full p-2 m-1 hover:bg-brand-color hover:rounded-lg hover:text-dark-scale-100"><a href="#about">Sobre mim</a></li>
@@ -57,7 +57,7 @@ export default function Header() {
                         </button> */}
                         
                         <button onClick={handleClick} className="">
-                            {click ? <FaTimes /> : <CiMenuFries />}
+                            {click ? <TfiClose className="h-6 w-6" /> : <CiMenuFries className="h-[26px] w-[26px]" />}
                         </button>
                     </div>
                 </div>
