@@ -6,7 +6,7 @@ export default function SectionHero() {
                 <span className="text-dark-scale-400 xl:text-lg">Desenvolvedor Front-End 
 & UI Designer</span>
                 <a href="mailto:wluciano01@gmail.com">
-                    <button className="bg-brand-color rounded-lg font-medium text-xs text-dark-scale-100 py-2 px-7 mt-6 xl:text-base   
+                    <button className="bg-brand-color rounded-lg font-medium text-sm text-dark-scale-100 py-3 px-7 mt-6 xl:text-base   
                     transition ease-in-out delay-150 duration-150 hover:scale-110">Entrar em contato</button>
                 </a>
             </div>
