@@ -13,3 +13,5 @@ C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\o
 C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\obj\Debug\net6.0\Hello World.pdb
 C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\obj\Debug\net6.0\Hello World.genruntimeconfig.cache
 C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\obj\Debug\net6.0\ref\Hello World.dll
+C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\wluci\OneDrive\Documentos\GitHub\Projetos\Back End - .Net\Hello World\obj\Debug\net6.0\Hello World.csproj.CopyComplete

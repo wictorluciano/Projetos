@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/Xe0gHFaphwTFFcgm8ZIBJOLt8HW7BkyyBUyWQ1789WbpPLSN6CXgzdZq1gD3glI73RG10xmN5HVJO0E+Pwslg==",
+  "dgSpecHash": "UR0dHqBEk8HNcp8HRxN8nbv+sHudXqefyEUFmSrn+Vfx0NNBaQuRYwX8KV0MGAi7IMbMqqXZgmt0/zUc6m0JUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\wluci\\OneDrive\\Documentos\\GitHub\\Projetos\\Back End - .Net\\Hello World\\Hello World.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wluci\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
