@@ -1,6 +1,6 @@
 # 🎮 Portfolio Wictor
 
-<a href="https://wictor.vercel.app/"> <img src="./readme.png"></a>
+<a href="https://wictor.vercel.app/"> <img src="./public/readme.png"></a>
 
 ## 🔗 Projeto:
 
