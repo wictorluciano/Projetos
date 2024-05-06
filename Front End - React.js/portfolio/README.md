@@ -1,8 +1,23 @@
-# React + Vite
+# 🎮 Portfolio Wictor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://wictor.vercel.app/"> <img src="./readme.png"></a>
 
-Currently, two official plugins are available:
+## 🔗 Projeto:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deploy: [Click here to acess](https://wictor.vercel.app/)
+
+## 💻 Tech Stack
+
+- TailwindCSS
+- React.Js
+- Figma
+- GIT & Github
+
+## ⭐ Contact
+
+<div align="start"> 
+  <a href="https://instagram.com/wictor_luciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wluciano01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wictorluciano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
