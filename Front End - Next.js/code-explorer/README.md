@@ -2,11 +2,13 @@
 
 **Projeto criado com React e Next para o Desafio Code Explorer da Front End - Fusion**
 
-1 -
-2 -
-3 -
-4 -
-5 -   
+**Desafios**
+
+ ✔ 1. Página Inicial
+ ✔ 2. Galeria de Imagens
+ ✔ 3. Formulario de Contato
+ ✔ 4. Menu Dropdown com Submenu
+ ✔ 5. Responsividade 
 
 <a href="***LINK-DO-PROJETO***"> <img src="./public/readme.png"></a>
 
