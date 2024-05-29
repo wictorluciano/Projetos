@@ -1,13 +1,12 @@
 import Image from "next/image";
 import Carousel from "./Carousel";
 import Responsive from "./Responsive";
+import Image1 from "../assets/1.jpeg"
+import Image2 from "../assets/1.jpeg"
+import Image3 from "../assets/3.jpeg"
+import Image4 from "../assets/4.jpeg"
 
-const images = [
-    'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg',
-    'https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-]
+const images = [Image1, Image2, Image3, Image4]
 
 export default function SectionGallery() {
     return (
@@ -19,12 +18,12 @@ export default function SectionGallery() {
 
                     <Carousel>
                         {images.map((img) => (
-                            <img 
-                                key={img} 
-                                src={img}  
-                                alt={img}
-                                width={600}
-                                height={400}
+                            <Image 
+                            key={img} 
+                            src={img}  
+                            alt={img}
+                            width={600}
+                            height={400}
                             />
                         ))}
                     </Carousel>
