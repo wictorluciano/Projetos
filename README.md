@@ -4,15 +4,14 @@
 <p>Contém os projetos pessoais desenvolvidos para fins didáticos, dividos por stacks. </p>
 
 
-##
-💻 Tech Stacks
+## 💻 Desafios 
 
-- Front end
-- Back end
-- GIT & Github
+| Status | Desafio | Nome |                        Deploy                        |   Tecnologias  | 
+| :----: | :-----: | :--: | :-------------------------------------------------: | :---------------:|
+|   ✅   |   01    | TESTE | [Acessar]() | TESTE |
+|   ✅   |   02    | TESTE | [Acessar]() | TESTE |
 
-##
-⭐ Contact
+## ⭐ Contact
 
 <div align="start"> 
   <a href="https://instagram.com/wictor_luciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
