@@ -8,8 +8,12 @@
 
 | Status | Desafio | Nome |                        Deploy                        |   Tecnologias  | 
 | :----: | :-----: | :--: | :-------------------------------------------------: | :---------------:|
-|   ✅   |   01    | TESTE | [Acessar]() | TESTE |
-|   ✅   |   02    | TESTE | [Acessar]() | TESTE |
+|   ✅   |   01    | Portfolio | [Acessar](https://github.com/wictorluciano/portfolio) | Next.js |
+|   ✅   |   02    | Landing Page - Itaú | [Acessar](https://github.com/wictorluciano/linktree-gamer) | Next.Js |
+|   ✅   |   03    | Tech Blog | [Acessar](https://github.com/wictorluciano/tech-blog) | Next.js |
+|   ✅   |   04    | LinkTree Gamer | [Acessar](https://github.com/wictorluciano/linktree-gamer) | React.Js |
+|   ✅   |   05    | Jordan Shoes Store | [Acessar](https://github.com/wictorluciano/jordan-shoes-store) | React.Js |
+|   ✅   |   06    | Blog | [Acessar](https://github.com/wictorluciano/blog) | React.Js |
 
 ## ⭐ Contact
 
